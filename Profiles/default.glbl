@@ -14,4 +14,9 @@
       <initValue>''</initValue>
       <name>Counter</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Counter2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
