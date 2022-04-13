@@ -158,5 +158,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  ALAMI Peer-
     'Xq+Grj40a3e0nkYhGIsjqg==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login  ALAMI Peer-to-Peer Lending Syariah/a_Masuk Ke Akun Saya'))
-WebUI.delay(5)
+WebUI.delay(2)
 WebUI.closeBrowser()
